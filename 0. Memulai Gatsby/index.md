@@ -109,4 +109,4 @@ gatsby develop
 
 ## ➡️ Apa selanjutnya
 
-Tutorial ini berasal dari dokumentasi [Official Gatsby](https://www.gatsbyjs.org/tutorial/part-zero/), untuk selanjutnya bagaimana membuat [Block](https://github.com/GatsbyJS-Indonesia/dokumentasi/blob/master/1.%20Membuat%20Block/index.md)
+Tutorial ini berasal dari dokumentasi [Official Gatsby](https://www.gatsbyjs.org/tutorial/part-zero/), untuk selanjutnya bagaimana membuat [👉 Block](https://github.com/GatsbyJS-Indonesia/dokumentasi/blob/master/1.%20Membuat%20Block/index.md)
