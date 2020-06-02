@@ -83,14 +83,27 @@ gatsby --help
 
 ## Membuat proyek Gatsby pertama
 
-Saatnya membuat Gatsby site pertama, gunakan [Gatsby Starters](https://www.gatsbyjs.org/starters/).
+1. Saatnya membuat Gatsby Site pertama, untuk memudahkan konfigrasi gunakan [Gatsby Starters](https://www.gatsbyjs.org/starters/) untuk memulai proyek ini.
 
 ```
 gatsby new hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world
 ```
 
-Masuk ke direktori `hello-world`
+💡 Arti perintah di atas:
+
+> `new` adalah perintah untuk membuat proyek Gatsby
+> di sini `hello-world` adalah nama proyek yang dibuat beserta direktorinya
+
+2. Masuk ke direktori `hello-world`
 
 ```
 cd hello-world
 ```
+
+3. Jalankan dengan perintah `develop`:
+
+```
+gatsby develop
+```
+
+4. Buka browser dan ketik `http://localhost:8000/`, pastikan di browser tampil `Hello world!`
