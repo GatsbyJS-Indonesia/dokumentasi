@@ -69,7 +69,7 @@ node --version
 
 ## Menggunakan Gatsby CLI
 
-Gatsby CLI digunakan membuat proyek Gatsby melalu terminal, install Gatsby CLI menggunakan terminal:
+Gatsby CLI digunakan membuat proyek Gatsby melalui terminal, install Gatsby CLI menggunakan terminal:
 
 ```
 npm install -g gatsby-cli
@@ -106,3 +106,6 @@ gatsby develop
 ```
 
 4. Buka browser dan ketik `http://localhost:8000/`, pastikan di browser tampil `Hello world!`
+
+## ➡️ Apa selanjutnya
+Tutorial ini berasal dari dokumentasi [Official Gatsby](https://www.gatsbyjs.org/tutorial/part-zero/), untuk selanjutnya bisa  
