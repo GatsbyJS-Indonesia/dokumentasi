@@ -1,4 +1,4 @@
-# Dokumentasi Gatsby Indonesia
+# Memulai Gatsby
 
 Sebelum memulainya, sangat perlu untuk pengenalan dasar beberapa inti dari Teknologi Web seperti [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/), dan [Javascript](https://www.w3schools.com/js/default.asp).
 
@@ -10,11 +10,11 @@ Command-line adalah alat yang memiliki ciri `text-based` dan dijalankan pada kom
 
 [NodeJS](https://nodejs.org/en/) adalah suatu tool yang dapat menjalankan kode-kode Javascript tanpa Browser, Gatsby dijalankan dengan menggunakan NodeJS
 
-### Instalasi pada Windows
+### 🖥 Instalasi pada Windows
 
 Untuk instalasi pada Windows silahkan download pada [official NodeJS](https://nodejs.org/en/). Terdapat 2 versi yaitu LTS (Long Term Support) dan Latest Features atau versi terakhir, cobalah menggunakan versi terakhir.
 
-### Instalasi pada Mac
+### 🖥 Instalasi pada Mac
 
 Untuk instalasi NodeJS menggunakan Mac, direkomendasikan menurut team [Gatsby](https://www.gatsbyjs.org/tutorial/part-zero/) adalah menggunakan [Homebrew](https://brew.sh/), ketik perintah seperti di bawah:
 
@@ -22,50 +22,50 @@ Untuk instalasi NodeJS menggunakan Mac, direkomendasikan menurut team [Gatsby](h
 brew install node
 ```
 
-### Instalasi pada Linux
+### 🖥 Instalasi pada Linux
 
 #### Ubuntu, Debian:
 
-##### 1. Pastikan distribusi Linux update dan Upgrade
+1. Pastikan distribusi Linux update dan Upgrade
 
 ```
 sudo apt update
 sudo apt -y upgrade
 ```
 
-##### 2. Install curl untuk proses transfer data dan download penambahan library lainnya (dependencies)
+2. Install curl untuk proses transfer data dan download penambahan library lainnya (dependencies)
 
 ```
 sudo apt-get install curl
 ```
 
-##### 3. Download `nvm`
+3. Download `nvm`
 
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
 ```
 
-##### 4. Pastikan `nvm` bekerja dengan baik
+4. Pastikan `nvm` bekerja dengan baik
 
 ```
 nvm --version
 ```
 
-##### 5. Set default untuk versi NodeJS, contoh `12` adalah set secara default untuk versi 12 (LTS)
+5. Set default untuk versi NodeJS, contoh `12` adalah set secara default untuk versi 12 (LTS)
 
 ```
 nvm install 12
 nvm use 12
 ```
 
-##### 6. Pastikan sekali lagi NodeJS dan NPM berjalan
+6. Pastikan sekali lagi NodeJS dan NPM berjalan dengan baik
 
 ```
 npm --version
 node --version
 ```
 
-![](./images/terminal-node.gif "Alt Terminal Node")
+![](./assets/terminal-node.gif "Terminal")
 
 ## Menggunakan Gatsby CLI
 
@@ -91,8 +91,7 @@ gatsby new hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world
 
 💡 Arti perintah di atas:
 
-> `new` adalah perintah untuk membuat proyek Gatsby
-> di sini `hello-world` adalah nama proyek yang dibuat beserta direktorinya
+> `new` adalah perintah untuk membuat proyek Gatsby, keyword `hello-world` adalah nama proyek yang dibuat beserta direktorinya
 
 2. Masuk ke direktori `hello-world`
 
