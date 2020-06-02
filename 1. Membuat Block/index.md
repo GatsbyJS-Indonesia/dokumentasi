@@ -1,3 +1,3 @@
 # Membuat Gatsby Block
 
-Pada
+Pada bagaian
