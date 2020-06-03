@@ -4,7 +4,7 @@ Membuat Styles di dalam Gatsby sangat mudah
 
 ## Buat `css` file di dalam direktori `src/styles` dengan nama `global.css`
 
-> Susunan direktori:
+- Susunan direktori:
 ```
 ├── package.json
 ├── src
@@ -14,9 +14,8 @@ Membuat Styles di dalam Gatsby sangat mudah
 │       └── global.css
 ```
 
-> Isi file:
-src/styles/global.css
-```js
+- Isi file untuk `global.css`:
+```
 html {
   background-color: lavenderblush;
 }
@@ -24,7 +23,7 @@ html {
 
 ## Buat file `gatsby-browser.js` pada direktori utama
 
-> Susunan direktori 
+- Susunan direktori: 
 ```
 ├── package.json
 ├── src
@@ -35,7 +34,7 @@ html {
 ├── gatsby-browser.js
 ```
 
-> Isi file:
-```
+- Isi file untuk `gatsby-browser.js`
+```jsx
 import "./src/styles/global.css"
 ```
