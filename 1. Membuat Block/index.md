@@ -1,3 +1,3 @@
 # Membuat Gatsby Block
 
-Pada bagaian
+Pada bagian ini, akan ditambahkan beberapa Block seperti Style, Image dll
