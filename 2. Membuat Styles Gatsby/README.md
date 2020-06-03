@@ -38,3 +38,7 @@ html {
 ```jsx
 import "./src/styles/global.css"
 ```
+
+## ➡️ Apa selanjutnya
+
+Tutorial ini berasal dari dokumentasi [Official Gatsby](https://www.gatsbyjs.org/tutorial/part-two/), untuk selanjutnya bagaimana Data layer 👉 [GraphQL]()
