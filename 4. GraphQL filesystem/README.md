@@ -25,6 +25,6 @@ module.exports = {
 }
 ```
 
-Buka browser dan jalankan `http://localhost:8000/___graphql`:
-[![Video GraphQL](./assets/poster.png)](./assets/graphql.mp4)
+Buka browser dan jalankan `http://localhost:8000/___graphql`, setelah itu bisa terlihat semua fields yang didapat dari `gatsby-config.js`:
+![](./assets/graphql.gif "GraphQL")
 
