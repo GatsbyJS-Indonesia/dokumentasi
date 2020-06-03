@@ -26,11 +26,5 @@ module.exports = {
 ```
 
 Buka browser dan jalankan `http://localhost:8000/___graphql`:
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="./assets/poster.png">
-    <source src="./assets/graphql.mp4" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
+[![Video GraphQL](./assets/poster.png)](./assets/graphql.mp4)
 
